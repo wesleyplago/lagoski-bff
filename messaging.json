@@ -1,0 +1,25 @@
+{
+  "publishes": null,
+  "subscriptions": [
+    {
+      "topic": "catalog.events",
+      "event_types": []
+    },
+    {
+      "topic": "ordering.events",
+      "event_types": []
+    },
+    {
+      "topic": "inventory.events",
+      "event_types": []
+    },
+    {
+      "topic": "payment.events",
+      "event_types": []
+    },
+    {
+      "topic": "fulfillment.events",
+      "event_types": []
+    }
+  ]
+}
